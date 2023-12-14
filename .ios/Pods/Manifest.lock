@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+    - sm_captcha_flutter
+  - sm_captcha_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - FlutterPluginRegistrant (from `Flutter/FlutterPluginRegistrant`)
+  - sm_captcha_flutter (from `.symlinks/plugins/sm_captcha_flutter/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  FlutterPluginRegistrant:
+    :path: Flutter/FlutterPluginRegistrant
+  sm_captcha_flutter:
+    :path: ".symlinks/plugins/sm_captcha_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  FlutterPluginRegistrant: 1b8584dd105a185d1d78021b525240da0057cbfb
+  sm_captcha_flutter: 91d9471627ac9d3d705690a4eb77c88419a24c34
+
+PODFILE CHECKSUM: f23cdaf6df7581c877bdc345e211b5b99c6b6f59
+
+COCOAPODS: 1.12.1
